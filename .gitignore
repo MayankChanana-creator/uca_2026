@@ -1,0 +1,25 @@
+#Compiled executables
+*.out
+*.exe
+
+#Object files
+*.o
+*.obj
+
+#Static Libraries
+*.a
+*.lib
+
+#Shared Libraries
+*.so
+*.dll
+*.dylib
+
+#Debug Files
+*.dSYM/
+
+#Log Files
+*.log
+
+#VS Code Settings
+.vscode/
