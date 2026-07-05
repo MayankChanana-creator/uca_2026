@@ -1,6 +1,7 @@
 #Compiled executables
 *.out
 *.exe
+*.class
 
 #Object files
 *.o
